@@ -57,3 +57,6 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+#file where is located the apikey and url for getting the movies
+Globals.js
